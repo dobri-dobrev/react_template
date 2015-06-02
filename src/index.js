@@ -8,7 +8,7 @@ var ExampleApplication = React.createClass({
     var elapsed = Math.round(this.props.elapsed  / 100);
     var seconds = elapsed / 10 + (elapsed % 10 ? '' : '.0' );
     var message =
-      'Test ' + seconds + ' seconds.';
+      'Dobri mn golem Test ' + seconds + ' seconds.';
 
     return <p>{message}</p>;
   }
