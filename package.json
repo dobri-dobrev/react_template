@@ -1,7 +1,7 @@
 {
-  "name": "react-basic-commonjs-example",
-  "description": "Basic example of using React with CommonJS",
-  "main": "index.js",
+  "name": "react-basic-commonjs-template",
+  "description": "A template to get you started building a ReactJS CommonJS application",
+  "main": "src/index.js",
   "devDependencies": {
     "browserify": "^6.3.3",
     "envify": "^3.2.0",
